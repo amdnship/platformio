@@ -1,9 +1,8 @@
 {
     "framework-adStar-SDK": [
         {
-            "url": "https://github.com/eerimoq/simba-releases/raw/master/platformio/adStar-SDK.0.3.zip",
-            "sha1": "0ea843a31e68904a2ee0ce6e75ac0cfd1253637c",
-            "version": "15.0.3"
+            "url": "https://github.com/amdnship/platformio/raw/master/adStar_SDK_v2.2.3.zip",
+            "version": "2.2.3"
         }
     ]
 }
