@@ -1,7 +1,7 @@
 {
     "framework-adStar-SDK": [
         {
-            "url": "https://github.com/amdnship/platformio/raw/master/adStar_SDK_v2.2.3.zip",
+            "url": "https://github.com/amdnship/platformio/raw/master/SDK_2.2.3.zip",
             "version": "2.2.3"
         }
     ]
